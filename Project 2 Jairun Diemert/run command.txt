@@ -1,0 +1,1 @@
+g++ -Wall Patient.cpp Doctor.cpp PatientList.cpp DoctorList.cpp Appointment.cpp main.cpp -o start -std=c++11
